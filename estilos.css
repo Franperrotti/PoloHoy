@@ -1,0 +1,87 @@
+
+.pagina1{
+    background-image:  url(img/poloprincipal.jpg);
+    background-position: right;
+    background-size: 1050px;
+    background-repeat: no-repeat
+  
+    
+}
+
+.equipos{
+    background-image:  url(img/lazylay.jpg);
+    background-position: right;
+    background-size: 1050px;
+    background-repeat: no-repeat
+}
+.primerapagina{ background-color: rgba(50, 30, 19, 0.2);
+    font-size: 45px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+        
+}
+.Negrito{
+    text-emphasis-color: black
+}
+
+
+
+.primera {
+    background-color: rgba(50, 30, 19, 0.2);
+   text-align: right
+}
+
+
+.Redes2{
+    text-align: right
+}
+
+.contacto{
+    font-size: 45px
+}
+
+.donde {
+    font-size: 15px
+}
+
+.CONTACT {
+    font-size: 13px
+}
+
+.colorverde {
+    color: rgb(89, 126, 89);
+    font-size: 13px
+}
+
+.chi {
+    font-size: 8px
+}
+
+a{
+    text-decoration:none;
+color: black
+}
+
+.aboutbody{
+    background-image: url(img/poloday1.jpg) ;
+    background-position: right;
+    background-size: 900px;
+    background-repeat: no-repeat
+
+}
+
+.colorverde1 {
+    color: rgb(7, 7, 7);
+    font-size: 18px
+}
+
+.chi1 {
+    font-size: 13px;
+    color:black;
+    line-height: 20px
+
+}
+
+/* nofunciona */
+.fondito { background-image: url(img/emilia-music-top.jpg);
+
+}
